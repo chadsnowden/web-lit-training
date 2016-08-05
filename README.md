@@ -1,7 +1,7 @@
 # Mozilla Web Literacy Training
 ## Sharing Your Work with Github!
 
------ This repo includes three projects for participants in Mozilla's Web Literacy Training to choose from, in order to practice some of the skills learned during the training.
+== This repo includes three projects for participants in Mozilla's Web Literacy Training to choose from, in order to practice some of the skills learned during the training.
 
 Participants can fork this repo and then choose a project template to edit on their forked version.
 
@@ -13,7 +13,7 @@ Click the **"Fork"** button in the top right of this page
 
 ## Edit this README
 
-Make sure you're on your own forked version of this repo (you'll know it's your own version because your username will appear as part of the path in the top left).
+Make sure you're on your own *forked* version of this repo (you'll know it's your own version because your username will appear as part of the path in the top left).
 
 ![yourname](https://cloud.githubusercontent.com/assets/8389648/15445412/0195acee-1eb3-11e6-8366-7c33197307a8.png)
 
